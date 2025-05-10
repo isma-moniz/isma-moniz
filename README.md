@@ -1,4 +1,4 @@
-# isma's corner github
+# isma's corner of github
 
 ## About me
 I'm an informatics engineering student at FEUP. I enjoy programming :)
