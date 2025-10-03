@@ -1,5 +1,3 @@
-# isma's corner of github
-
 ## About me
 I'm an informatics engineering student at FEUP. I enjoy programming low level stuff, emulators, videogames and am also interested in cybersecurity, computer networks and systems.
 
